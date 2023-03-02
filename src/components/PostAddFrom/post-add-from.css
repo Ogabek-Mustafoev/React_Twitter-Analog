@@ -1,0 +1,15 @@
+.bottom-panel {
+  margin-top: 20px;
+  position: absolute;
+  bottom: 0.5rem;
+  padding: 0.5rem 1rem;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  background: white;
+}
+.bottom-panel .new-post-label {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}

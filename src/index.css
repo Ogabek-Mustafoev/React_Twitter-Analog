@@ -1,0 +1,46 @@
+body {
+  background: #1da1f2;
+}
+@media screen and (max-width: 450px) {
+  .app {
+    padding: 1rem 0.5rem;
+    height: 100vh;
+    margin: 0;
+  }
+  .app-header {
+    flex-direction: column;
+  }
+  .app-header h1 {
+    font-size: 1.5rem;
+  }
+  .search-panel {
+    flex-direction: column;
+  }
+  .btn-group {
+    margin-top: 1rem;
+  }
+  span {
+    font-size: 1.1rem;
+  }
+  .app-list-item button {
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+    font-size: 15px;
+  }
+  .add_post {
+    min-width: 38px !important;
+  }
+  .bottom-panel {
+    padding: 1rem 0.5rem;
+  }
+  .app-list {
+    margin-top: 1rem;
+    max-height: 71%;
+  }
+}
+@media screen and (max-width: 317px) {
+  html {
+    font-size: 14px;
+  }
+}
