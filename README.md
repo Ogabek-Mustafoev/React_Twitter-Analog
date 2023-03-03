@@ -8,12 +8,11 @@
 
 <h2>Project Screenshots:</h2>
 
- <div style="display: flex; justify-content: space-between; width=100%;">
+ <div style="display: flex; justify-content: space-between; width:100%;">
   <img src="https://charming-semolina-34cdcd.netlify.app/assets/Blog-post/post-1.png" alt="project-screenshot">
  </div>
 
 <h2>🛠️ Installation Steps:</h2>
-
 
 <p>1. Download code</p>
 
