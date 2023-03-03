@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Twitter-Analog</h1>
 
-<p id="description">Twitter-Analog with React Class Component. This project is fully responsive on different devices and window sizes.</p>
+<p id="description">Twitter-Analog with React Class Component. This project is fully responsive on different devices and window sizes. You can add, remove, like and filter posts.</p>
 
 <h2>🚀 Demo</h2>
 
